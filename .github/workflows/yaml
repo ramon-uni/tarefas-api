@@ -1,0 +1,4 @@
+1. Criar o banco no MySQL:
+
+```sql
+CREATE DATABASE tarefasdb;
